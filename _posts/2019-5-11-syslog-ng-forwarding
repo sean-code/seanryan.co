@@ -1,3 +1,8 @@
+---
+layout: post
+title: Log Forwarding with Syslog-NG
+---
+
 Setting the forwarding destination:
 
 
